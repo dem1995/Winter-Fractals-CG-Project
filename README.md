@@ -1,5 +1,5 @@
 # Winter-Fractals-CG-Project
-Monochromatic CG fractals project. 
+Monochromatic CG fractals/OpenGL project. 
 This is my portion of the computer graphics group project found at https://github.com/enondorf934/computer-graphics-project (held here for portfolio purposes).
 
 ![The two scenes for the project. The right half fell under my purview.](https://i.imgur.com/JIRaPsh.png)

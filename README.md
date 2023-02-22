@@ -1,6 +1,9 @@
 # Winter-Fractals-CG-Project
 Monochromatic CG fractals project. 
-This is my portion of the group project found at https://github.com/enondorf934/computer-graphics-project (held here for portfolio purposes).
+This is my portion of the computer graphics group project found at https://github.com/enondorf934/computer-graphics-project (held here for portfolio purposes).
+
+![The two scenes for the project. The right half fell under my purview.](https://i.imgur.com/JIRaPsh.png)
+<p align="center">The two scenes for the project. The right half was my responsibility.</p>
 
 ## Building
 Download and install gradle (if you are on Windows, I recommend Chocolatey, otherwise Brew or your default package manager should be good), then go to the root directory (where the build.gradle file is located) and run "gradle installDist". This creates a ./build/ directory with an executable for your machine.

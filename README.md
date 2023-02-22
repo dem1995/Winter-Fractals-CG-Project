@@ -1,5 +1,5 @@
 # Winter-Fractals-CG-Project
-A monochromatic a winter night sky scene using fractals (IFS, Koch, and n-flake) and OpenGL/JOGL. 
+A monochromatic winter night sky scene using fractals (IFS, Koch, and n-flake) and OpenGL/JOGL. 
 This is my portion of the computer graphics group project found at https://github.com/enondorf934/computer-graphics-project (held here for portfolio purposes).
 
 ![The two scenes for the project. The right half fell under my purview.](https://i.imgur.com/JIRaPsh.png)
